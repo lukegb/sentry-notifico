@@ -1,0 +1,3 @@
+include setup.py README.md MANIFEST.in LICENSE AUTHORS
+recursive-include sentry_notifico/templates *
+global-exclude *~
